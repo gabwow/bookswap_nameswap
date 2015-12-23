@@ -1,0 +1,270 @@
+#PAGE_A1
+True Space Police: An Epic Choose Your Own Adventure
+Your well-polished space boots click and clack as you walk down the hallways of Space Precinct 317. Gradually you hear a growing counter clatter: someone is running to catch you. It's your partner – you can tell from the smell of cigarette smoke and mild panic.
+
+To wait for your partner to catch up, turn to #PAGE_A2
+
+To tell your partner to screw off, you haven't had your morning beer turn to #PAGE_B2
+
+#PAGE_A2
+You slow down and [name1] quickly runs up beside you. 'Did you hear the news?' [name1] asks. Your finally honed detective skills notice that most of [name1]'s breakfast burrito appears to have ended up [name1]'s shirt. 'Pull yourself together [name1]'
+
+Your partner is used to ignoring your japes and jabs. 'There has been a space 187 on Jupiter's rings. We've got to head out.'
+
+To go to the crime scene, turn to #PAGE_A3
+
+To let [name1] know that you're the boss, turn to #PAGE_C3
+
+
+#PAGE_B2
+'Hey,' your partner starts, but you cut him off.
+
+'Give me one second, I need to chug my morning beer.' You open a cold refreshing [name1]'s Pale Ale.
+
+'Should you be drinking at work?'
+
+'Yeah, it's cool. It's medically prescribed.'
+
+'Oh ok, well there has been a space 187 on Jupiter's rings. We've got to head out.'
+
+
+Turn #PAGE_A3
+
+#PAGE_A3
+The old saying from the future 'The asteroid mines of Jupiter are truly shit' is a cliche because it's true. As your squad ship lands at the address, you don't even see the normal handful of rubber neckers. Clearly this isn't the first death on this asteroid. You track down the building's super and get let into the vic's apartment. You see the super's nametag. 'Hey [name2], what can you tell me about the victim?'
+'Eh, I let you in to the apartment, what more do you want?'
+
+To see if money makes [name2] remember, turn to #PAGE_A4
+
+To let [name2] know you're the boss, turn to #PAGE_E4
+
+#PAGE_C3
+'Hey I'm the boss,' you push your finger into your partner's chest.
+
+'Ok,' your partner stares at you blandly.
+
+You fumble around for a plan, finally settling on, 'Let's head out'.
+
+On your way out, you victoriously high five Sergent [name26].
+
+Turn to #PAGE_A3
+
+#PAGE_A4
+'Maybe some money will make you remember' you coyly observe.
+'Oh yeah, I remember [name3]. Good tenant. Always paid on time. Rarely had visitors.'
+
+You think of all the beer you could have bought with those 20 space bucks. You earned more from the super.
+
+'Rarely? So there were visitors. Any stick out?' The super considers asking for some more money, but looking you he realizes it's a bad idea.
+
+Turn to #PAGE_A5
+
+#PAGE_E4
+'I'm just going to say this once, I'm the boss'
+
+The super looks blandly at you. 'Nope'.
+
+Sounds like you better try a different approach.
+
+Turn to #PAGE_A4
+
+#PAGE_A5
+'Yeah, one person. Real classy broad, like Mars Colony classy. Would come by every now and then, always stuck out. Looked like they could have been twins, aside from one living in the asteroid mines of Jupiter which are truly shit and the other being a total Martian Princess'
+You ignore this casual spacism and ask 'This classy Mars broad -- she got a name?'
+'Probably but I don't know it. Oh but hey, there she is.'
+You turn to see who the super is looking at, and she sees you seeing her and takes off. You give chase. You can almost hear exciting chase music, mainly because you're singing it to yourself. You quickly catch her -- she's in high heels and you're true space police. You notice she's beautiful. You demand her name.
+'I'm [name4], and I need you to solve this murder'
+
+Turn to #PAGE_A6
+
+#PAGE_A6
+You let her know that that's exactly what you're trying to do. 'That's exactly what I'm trying to do, but I need a lead, or at least your sibling's name.'
+'It is, I mean was, [name5].' You think for a second she might cry, but instead she takes out a space-e-cigarette, which is like an e-cigarette but even douchier, and takes a long drag. You know this sort of broad, the sort of broad that got you in trouble in the past, that got your ass shipped out of the Inner Colonies. You've sworn off this sort of dame, but looking in her eyes, you know you didn't mean it.
+
+You hit on her.
+
+Turn to #PAGE_A7
+
+
+#PAGE_A7
+'Smoking is forbidden on this asteroid. Besides, space-e-cigarettes are so douchie.' You put on your sternest cop face and let her know you're the boss, but also maybe you're hitting on her.
+
+'I'm sorry. It's a bad habit. I picked it up as a high-end Martian courtesan from a client, [name6]. I'd like to think I've put those days behind me, but here I am, smoking. Listen to me prattle on. We should be talking about the murder'.
+
+Turn to #PAGE_A8
+
+#PAGE_A8
+'You're right,' you say, 'so how does one of you end up living the highlife on Mars and one of you end up busting hump on an asteroid? And why weren't you doing more to help out your own flesh and blood?'
+
+'Don't you dare judge either of us. If you want a villain, take a look at her old lover -- a real junkie lowlife who preyed on my sister, got her hooked on Red Supernova. Probably was the one who murdered her.'
+
+'And where can I find this lowlife?'
+
+'I don't know, went by a clearly fake name: 'Spider'. However, I remember one time we got into a fight, a horrifically big blowout, and she didn't say 'Spider'. I think she said [name7].
+
+Turn to #PAGE_A9
+
+#PAGE_A9
+Suddenly your partner speaks, about damn time after you did all the heavy lifting. 'I remember Spider. Used to be a high roller, ran the drug game for the whole Phobos Towers, until [name8] took over all of that territory.'
+
+To have your partner take the lead, turn to #PAGE_A10
+
+Ugh, you swear your partner is the absolute worst, turn to #PAGE_H10
+
+#PAGE_A10
+Life on Phobos isn't quite as sad as life on the asteroids. It's got a lot of that new Mars Colony money pouring into second homes, but Phobos Towers isn't where those tech bros live -- it's where they go to score Red Nebula and black-market sexbots. Your partner has a couple of informants around these parts, so you are stuck riding in the passenger seat. Stupid partner. Suddenly, one of the informants sneaks into the back of the shuttle. "Hey, you got my space money?" whispers [name9].
+
+Your partner tosses a few dollars back.  'Yeah, I know about Spider's old squeeze. Murdered; damn shame.'
+
+'I'm not giving you money for what we already know.'
+
+'Ok, well, did you know that Spider has been on a wicked losing streak gambling on the robot dog fighting pits. Owed a lot of people money. The sort of money that might get someone killed.'
+
+
+To go to the robot dog fighting pit, turn to #PAGE_A11
+
+To go elsewhere -- are you kidding me? Robot dog fighting pit sounds awesome. You're going to #PAGE_A11
+
+#PAGE_H10
+God. Look at that walking, talking garbage dumpster fire of a cop that is your partner. You miss your old partner, [name25]. Too bad you got him killed in that drug sting.
+
+Turn to #PAGE_A10
+
+#PAGE_A11
+A set of multi-hierarchical hydraulic jaws clamp down on an opponent’s neck, but then the oppenent's spinning saw blade tongue extends out at few feet, freeing itself from the deadly bite. Also they look like poodles. When robot dog fighting started, it was so excessively violent, everybody protested. But then one organizer, [name10] made the attack bots look like cotton candy coated, anime-eyed, hugable wovble lil poodles, and everyone was ok with it.
+
+Turn to #PAGE_A12
+
+#PAGE_A12
+'Mind if we ask you some questions?'
+'All I'm going to tell you is that in the next fight, it's 2 to 1 odds on Princess Fluffypants against Snuggle Lord [name11].'
+'Well, here's a question for you? Do you know the maximum sentence for running a fighting pit?'
+'Fine, ask away, but I don't know nothing.'
+You push the photo towards him, 'Do you recognize this person?' and the weasily guy bolts.
+
+Turn to #PAGE_A13
+
+
+#PAGE_A13
+Even in the future, hoverboards are cheap, overpriced junk, and this one quickly burst into flames. The weasily guy goes flying. You cuff him up, all the time he is screaming "Somebody call [name12], Attorney at Space Law."
+
+To act as judge, jury and executioner, turn to #PAGE_A14
+
+To read him his rights, turn to #PAGE_J14
+
+
+#PAGE_A14
+You open up your InstaTrial phone app -- it's judge! jury! and executioner! all in one. However, it does need lawyers to run. Thankfully, you are not only an amazing Space Police, but a fully certified Space Lawyer. The app speaks 'Welcome to InstaTrial, the honerable AI Judge [name13] presiding'.
+
+You know you have to really wow the judge -- as a renegade cop, you don't even know what you're really accusing this guy of. You don't even know his name. Maybe you should have thought this through more. But thinking things through has never been your strong suit. You need to really wow this judge with a strong opening statement. You send him a pretty great meme of a cat looking sad while wearing a judge's robe. That should do it.
+
+The judge rules: 'Case dismissed'.
+
+You space object. The judge space overrules your ass.
+Turn to #PAGE_A15
+
+#PAGE_J14
+Wow, you went with this choice? That seems pretty dull, guys. I'm pretty disappointed. Is this some distrust of the police thing? You want to make sure everything is above the board in a space-based choose your own adventure? Even [name13] is disappointed in you.
+
+Turn to #PAGE_A15
+#PAGE_A15
+Well, that didn't go exactly liked you would have thought, so maybe you should just try to interregate this guy. You'd like to try Good Cop/Bad Cop, but with your partner, it will probably be more like Great Cop/Lame Cop who makes you look less cool.
+
+'Alright, scum, how about we start with your name,' you say in your toughest Christian-Bale-as-Batman growl.
+
+'It's [name14].'
+
+'Stop jerking me around. We ran your prints. We know who you really are. Maybe you'll be a little more honest with this one -- why did you run, Max?'
+
+'I didn't run -- I hovered.'
+
+To ask yourself why this always looked so easy on Law and Order reruns, turn to #PAGE_A16
+
+To let Max know you're the boss, turn to #PAGE_B16
+
+#PAGE_A16
+How were you supposed to know that all those hours watching USA Network marathons of Law and Order would leave you so ill-prepared for being a cop? You curse Christopher Meloni and his easy rapport with Mariska Hargitay. Oh my god, what sort of monster have you become? L&O:SVU is an istitution above scrutiny. Your rage explodes. You bash Max over the head, again and again, until the combined efforts of your partner and Officer [name15] runs in to restrain you.
+
+Turn to #PAGE_A17
+
+#PAGE_B16
+You ask your partner to leave the room and to bring back some coffee. You look at your 'What Would Christopher Meloni Do' tattoo, and proceed to rough up the perp with that finely calibrated amount of police brutality that makes you look tough but isn't going to lose audience support. As it turns out, fine calibration isn't your strong suit either. Officer [name15] runs in to restrain you.
+
+Turn to #PAGE_A17
+
+#PAGE_A17
+You're sitting in the office of Captain [name16]. You've been here before, but you've rarely seen [name16] look this pissed.
+
+'What the heck is going on with you? I've seen you out of control on cases before? Is it hitting too close to home? Is it too hastily written? It doesn't matteryour off the case.'
+
+To tell the Captain to screw off, you're the boss, turn to #PAGE_A18
+
+To beg to stay on the case, turn to #PAGE_B18
+
+#PAGE_A18
+'You can take my badge, but you can't take my gun,' you bark at your captain.
+
+'Actually, I can,' and the Captain presses a button on his phone and both your badge and gun 3d unprint. Stupid the future.
+
+'Ok fine, if you need me, I'll be drinking at [name17]'s.' you tell the Captain.
+
+'I can absolutely guarantee you we will not.'
+
+Turn to #PAGE_A19
+
+#PAGE_A19
+You spend the next few days on a bender. You are stunned to see on the news that your old loser partner solved the case. You did not picture things working out this way. It turns out some gun runner named [name18] did it.
+
+Turn to #PAGE_A20
+
+#PAGE_A20
+Yeah, gun running. You should have actually gone into the apartment rather than  just asking the super a bunch of questions. It was filled with illegal firearms. She had been selling guns to the local gang controlled by [name19].
+
+Turn to #PAGE_A21
+
+#PAGE_A21
+It turns out you were a pretty poor space police. Thankfully you landed on your feet as a space gardner. People like you. Just recently you got linkedin requests from the following people:
+[name20]
+[name21]
+[name22]
+[name23]
+[name24]
+[name25]
+[name26]
+
+#PAGE_B18
+'Captain, you've got to let me keep working this case. I know I jumped the gun in arresting someone, and then beat the shit out of them, but that also says devotion.'
+
+Your captain sighs. 'Well, you have done an absolutely terrible job, but with funding cuts, we really don't have the resources to assign someone else.' The captain quietly curses the recent budget of [name17], the Governor of Space. You quietly pat yourself on the back for remembering to vote last election.
+
+Turn to #PAGE_B19
+You double down on being responsible. That seems like something your partner would be good at. 'Heya partner, any idea how to break this case in some non-awesome way?'
+
+'Well, we probably should actually go back, examine the crime scene, see how the vic died, look for clues...'
+
+'God this sounds boring. Can't we just get that nerd [name18] from IT to to hack someone's computer or something?'
+
+Your partner looks at you, 'It's called police work for a reason. It actually involves work.'
+
+Suddenly [name18] from IT walks in. 'Hey guys. I totally hacked some computers and solved your case.
+
+Turn to #PAGE_B20
+
+#PAGE_B20
+'Yeah, it wasn't too bad. I zero-day pwned the Gibson and saw some incrementing transactions,' the nerd nerdily explains. You are so disappointed people still say pwned. 'So it turns out your victim wasn't much of a victim at all. Drugs, guns, minor scale political uprisings. Anyways, the CIA had to quote unquote commit murder. They sent us a fax. Apparently we still have a fax machine.'
+
+'Well nerd, great work, because now you'll have to do the paper work. Me and my partner are going for beers at [name19]'s."
+
+'Actually I'm not," your partner chimes in. 'You're rude, arrogant, and kinda the worst.'
+
+Turn to #PAGE_B21
+
+#PAGE_B21
+You take some classes at the learning annex to help you really work on yourself. Professor [name20] offers some painful but constructive criticism. You take up gardening. You start an anarchist co-op space garden with the following people:
+
+[name21]
+[name22]
+[name23]
+[name24]
+[name25]
+[name26]
