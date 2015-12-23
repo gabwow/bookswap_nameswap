@@ -33,7 +33,7 @@ with open(scriptName, "r") as readFile:
         line = line.replace(pageId.group(0), "Page " + str(page2number[pageId.group(0)]))
       hits =  namePattern.search(line)
       if hits:
-        index = int(hits.group(1))
+        index = int(hits.group(1)) - 1
         if(index < len(guests)):
           exactId = "[name" + hits.group(1) + "]"
           outputFile.write(line.replace(exactId, guests[index]))
